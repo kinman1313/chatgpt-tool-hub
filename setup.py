@@ -45,7 +45,7 @@ setup(
         'requests',
         'lxml',
         'beautifulsoup4~=4.12.0',
-        'aiohttp~=3.8.6',
+        'aiohttp>=3.8.6,<3.12.0',
         'qrcode',
         'pyqrcode',
         'pillow',
